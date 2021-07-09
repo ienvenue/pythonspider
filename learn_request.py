@@ -1,13 +1,3 @@
-# -*- coding: utf-8 -*- #
-# ------------------------------------------------------------------
-# File Name:        importdata.py
-# Author:           yancy
-# Version:          ver0.2
-# Created:          2021/04/22
-# Description:      Main Function:    XLSX或CSV文件导入MySQL数据库
-# ------------------------------------------------------------------
-
-
 # 按 Shift+F10 执行或将其替换为您的代码。
 # 按 双击 Shift 在所有地方搜索类、文件、工具窗口、操作和设置。
 import requests
